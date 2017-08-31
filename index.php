@@ -1,4 +1,4 @@
-Welcome to my page
+Welcome to NTeeZy's page
 <script src="https://www.gstatic.com/firebasejs/4.3.0/firebase.js"></script>
 <script>
   // Initialize Firebase
